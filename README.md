@@ -1,3 +1,22 @@
+#Projeto Unid Filmes
+
+-Este projeto tem o objetivo de apresentar filmes e trailes, com o uso da api "The movie database".
+
+
+#Pré vizualização: 
+
+![Captura de tela 2022-01-23 084527](https://user-images.githubusercontent.com/87025558/150677008-f8a88a3a-9570-4bed-89ee-4d8a0e2b5376.png)
+
+![Captura de tela 2022-01-23 084732](https://user-images.githubusercontent.com/87025558/150677018-9ab867b0-3bee-4d87-a31e-f1646953afaa.png)
+
+![Captura de tela 2022-01-23 084640](https://user-images.githubusercontent.com/87025558/150677022-640bbed8-1709-4693-a04a-ce721b8da628.png)
+
+![Captura de tela 2022-01-23 084604](https://user-images.githubusercontent.com/87025558/150677023-b330489b-238e-4445-8bdb-b214ffe02fdf.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
